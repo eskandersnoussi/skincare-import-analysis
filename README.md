@@ -40,8 +40,8 @@ it went, and why stopping was the right decision.
 
 ## What the dashboard shows
 
-[Open the interactive dashboard](docs/index.html) (download the file and open it
-in a browser, or see the [full-page screenshot](docs/screenshots/full_page.png)).
+**[Open the live interactive dashboard](https://eskandersnoussi.github.io/skincare-import-analysis/)**
+(or see the [full-page screenshot](docs/screenshots/full_page.png)).
 
 | Section | Question it answers |
 |---|---|
