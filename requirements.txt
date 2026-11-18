@@ -1,0 +1,5 @@
+pandas>=1.5
+numpy
+plotly>=5.18
+pillow              # only for demo/make_screenshots.py
+pytest              # tests
